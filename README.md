@@ -51,8 +51,8 @@ WayFare is a modern travel planning platform where users can explore destination
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YeasinWebDev/travel_next.git
-cd travel_next
+git clone https://github.com/YeasinWebDev/travel_next_client.git
+cd travel_next_client
 ```
 
 ### 2.Install Dependencies
